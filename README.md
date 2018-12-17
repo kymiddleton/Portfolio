@@ -1,46 +1,47 @@
 # Portfolio
 
-As a developer, an important part of your job is matching the design teams files **exactly**. In the interest of matching the work environment as closely as possible, all of your homeworks will include a design file that must be matched. 
+A web development activity with the object to create a functional portfolio matching the provided design files.   
 
-You will be working up to building this layout over the next two weeks:
+The design process will build over two weeks: 
 
 ![portfolio](images/portfolio.png)
 
-*This week*, work on completing the first portion of your portolio. What you're turning in this week should look like the image below.
+*Week One*, work on completing the first portion of your portolio. What you're turning in this week should look like the image below.
 
 ![partial portfolio](images/partial_port.png)
 
-Everything you need to get started is in the `starter` folder. 
 
-Follow the instructions below: 
+# Linking Assets
 
-* Copy the files inside the `starter` folder and paste them inside your `bc` > `Homework` > `01-Unit` folder. 
-
-* Read these short articles on how to link to images in your `assets` folder 
+* Reference articles on how to link to images in the `assets` folder 
 
   * [https://www.w3schools.com/html/html_filepaths.asp](https://www.w3schools.com/html/html_filepaths.asp)
 
   * [https://css-tricks.com/quick-reminder-about-file-paths/](https://css-tricks.com/quick-reminder-about-file-paths/)
 
+# Guidelines HTML
+
 * In `index.html`, use semantic HTML to add the following
 
   * Four icons (github, email, stackoverflow, linkedin) (included in assets)
 
-  * Your Name
+  * Name
 
   * A Short Title like `Software Developer`, `Front-End Developer`, `JavaScript Nerd`, or the like 
 
-  * A couple short paragraphs about you
+  * A couple short description paragraphs
 
   * Some text that says `See My Work` or `View Portfolio` or something similar with an arrow beside it (arrow included assets)
 
-  * A picture of you
+  * A picture 
 
   * 3 sample portfolio images (included in assets)
 
   * A footer with a copyright
 
-* In your `style.css` do all of the following:
+# Guidelines for CSS
+
+* In the `style.css` do all of the following:
 
   * Use the Google Font `Monserrat` for headers and `Open Sans` for all other text.
 
@@ -57,7 +58,3 @@ Follow the instructions below:
   * Add the appropriate color for text in the top and bottom sections, `#333333` and `#FFFFFF`. 
 
   * Set appropriate margins, padding, and widths to match the image below.
-
-  ![partial portfolio](images/partial_port.png)
-
-  ---
